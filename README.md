@@ -18,6 +18,7 @@ Why do we store this information?
 1. Discord
 
 Discord data is stored to make sure FOXY can operate and allow servers to set their own settings.
+
 2. Opt-in
 
 • Any per-server settings you might have changed
