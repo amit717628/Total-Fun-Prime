@@ -6,9 +6,10 @@ What data do we collect?
 
 1. Collected automatically
 
-• Discord Server IDs
-• Discord User IDs
-• Discord Channel IDs
+- Discord Server IDs
+- Discord User IDs
+- Discord Channel IDs
+- 
 2. Opt-in
 
 • Any per-server settings you might have changed
@@ -29,18 +30,19 @@ Data deletion
 
 The following data is deleted automatically when you remove Moosic from you server or stop using the bot.
 
-• Discord Server IDs
-• Discord Channel IDs
-• Discord User IDs
-• Any per-server settings you might have changed
+- Discord Server IDs
+- Discord Channel IDs
+- Discord User IDs
+- Any per-server settings you might have changed
+
 1. Opt-out
 
 The following data will be deleted when we get your request for opting-out. All the below data will be deleted and also proofs will be shown to you after deletion.
 
-• Discord Server IDs
-• Discord Channel IDs
-• Discord User IDs
-• Any per-server settings you might have changed
+- Discord Server IDs
+- Discord Channel IDs
+- Discord User IDs
+- Any per-server settings you might have changed
 Extra
 
 1. With whom do we share this information?
