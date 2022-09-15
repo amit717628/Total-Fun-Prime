@@ -29,7 +29,7 @@ Data deletion
 
 1. Deleted Automatically
 
-The following data is deleted automatically when you remove Moosic from you server or stop using the bot.
+The following data is deleted automatically when you remove FOXY from you server or stop using the bot.
 
 - Discord Server IDs
 - Discord Channel IDs
