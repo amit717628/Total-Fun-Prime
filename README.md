@@ -1,6 +1,6 @@
 Definitions
 
-# FOXY : Discord Security Bot
+ FOXY : Discord Security Bot
 
 What data do we collect?
 
