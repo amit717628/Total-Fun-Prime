@@ -23,7 +23,7 @@ Discord data is stored to make sure FOXY PRIME can operate and allow servers to 
 
 • Any per-server settings you might have changed
 
-These are only saved if you change the default settings of FOXY PRIME in your server and are needed to make sure the settings you set persist over your period of time using FOXY within your server.
+These are only saved if you change the default settings of FOXY PRIME in your server and are needed to make sure the settings you set persist over your period of time using FOXY PRIME within your server.
 
 Data deletion
 
