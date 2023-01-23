@@ -1,6 +1,6 @@
 Definitions
 
- FOXY PRIME : Discord Security Bot
+ TOTAL FUN PRIME : Discord Security Bot
 
 What data do we collect?
 
@@ -17,19 +17,18 @@ Why do we store this information?
 
 1. Discord
 
-Discord data is stored to make sure FOXY PRIME can operate and allow servers to set their own settings.
+Discord data is stored to make sure TOTAL FUN PRIME can operate and allow servers to set their own settings.
 
 2. Opt-in
 
 • Any per-server settings you might have changed
 
-These are only saved if you change the default settings of FOXY PRIME in your server and are needed to make sure the settings you set persist over your period of time using FOXY PRIME within your server.
-
+These are only saved if you change the default settings of TOTAL FUN PRIME in your server and are needed to make sure the settings you set persist over your period of time using TOTAL FUN PRIME within your server.
 Data deletion
 
 1. Deleted Automatically
 
-The following data is deleted automatically when you remove FOXY PRIME from you server or stop using the bot.
+The following data is deleted automatically when you remove TOTAL FUN PRIME from you server or stop using the bot.
 
 - Discord Server IDs
 - Discord Channel IDs
